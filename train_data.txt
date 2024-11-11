@@ -1,0 +1,1 @@
+B2AI stand for "Bridge to Artificial Intelligence" where we use artificial intelligence to detect various conditions in a patient by running machine leaarning models on a patient's voice recordings.
